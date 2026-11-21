@@ -5,6 +5,16 @@ documents you work in, for how long, and how much time the computer is idle, loc
 unmonitored. Everything is stored in a local SQLite database. There is no internet use, no
 cloud, no screenshots and no keystroke logging.
 
+## Screenshots
+
+Screenshots use demo data only.
+
+![Dashboard](docs/screenshots/dashboard.png)
+
+![Activity timeline](docs/screenshots/timeline.png)
+
+![Application analytics](docs/screenshots/applications.png)
+
 ## Run it
 
 Double-click **`Start TimeLens.bat`**, or use the packaged `dist\TimeLens\TimeLens.exe`
